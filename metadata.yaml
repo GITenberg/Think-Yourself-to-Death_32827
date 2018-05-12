@@ -1,0 +1,36 @@
+_repo: Think-Yourself-to-Death_32827
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32827-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Wilder, Stephen
+    - Lesser, Milton
+    - Ridgway, Jason
+    - Chase, Adam
+    - Thames, C. H.
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Mayhem, Johnny (Fictitious character) -- Fiction'
+title: Think Yourself to Death
+url: http://www.gutenberg.org/ebooks/32827
